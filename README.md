@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-karinejolie is a student
+GAVY IS A DEVOPS PRO
